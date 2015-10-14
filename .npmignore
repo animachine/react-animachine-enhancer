@@ -1,0 +1,6 @@
+demo
+src
+.*
+coverage
+test
+gulpfile.js
