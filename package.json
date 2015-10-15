@@ -1,7 +1,7 @@
 {
   "name": "react-animachine-enhancer",
-  "version": "0.1.10",
-  "description": "Use the full power of React and GSAP together",
+  "version": "0.0.0",
+  "description": "",
   "main": "lib/index.js",
   "directories": {
     "example": "examples"
@@ -16,12 +16,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/azazdeaz/react-animachine-enhancer.git"
+    "url": "https://github.com/animachine/react-animachine-enhancer.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/azazdeaz/react-animachine-enhancer/issues"
+    "url": "https://github.com/animachine/react-animachine-enhancer/issues"
   },
   "keywords": [
     "animation",
@@ -30,7 +30,7 @@
     "react",
     "react-component"
   ],
-  "homepage": "https://github.com/azazdeaz/react-animachine-enhancer",
+  "homepage": "https://github.com/animachine/react-animachine-enhancer",
   "devDependencies": {
     "@azazdeaz/component-playground": "^0.1.2",
     "babel": "^5.6.23",
