@@ -69,6 +69,6 @@
   "dependencies": {
     "bezier-easing": "^1.1.1",
     "lodash": "^3.10.1",
-    "react-gsap-enhancer": "^0.1.10"
+    "react-gsap-enhancer": "^0.1.14"
   }
 }
