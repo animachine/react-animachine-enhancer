@@ -4,7 +4,7 @@
 
 It works exactly the same as [react-gsap-enhancer], please check out that for the usage.
 
-It's also lets [animachine] connect to the enhanced component and edit its animations.
+It also lets [animachine] connect to the enhanced component and edit its animations.
 
 [react-gsap-enhancer]: https://github.com/azazdeaz/react-gsap-enhancer#readme
 [animachine]: https://github.com/animachine/animachine#readme
